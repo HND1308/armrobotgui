@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-1f05ba1b85f4600ce77a.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "armrobotgui",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "armrobotgui::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-armrobotgui-Debug-d8a04c13e4dcec3de2e7.json",
+					"name" : "armrobotgui",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "armrobotgui_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-armrobotgui_autogen-Debug-8509ea79984e1e0b29cb.json",
+					"name" : "armrobotgui_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "armrobotgui_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-armrobotgui_autogen_timestamp_deps-Debug-81cfe24bb449436009ae.json",
+					"name" : "armrobotgui_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/armrobotgui/build/Desktop_Qt_6_7_3_MSVC2022_64bit-Debug",
+		"source" : "D:/armrobotgui"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

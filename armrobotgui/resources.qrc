@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>hinh-win-10-don-gian-3-scaled.jpg</file>
+        <file>../Ảnh Ổ D/logo-hust.png</file>
+        <file>../Ảnh Ổ D/hust.png</file>
+    </qresource>
+</RCC>
